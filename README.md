@@ -21,6 +21,10 @@ operation3,param1
 
 Each line represents a set of operations applied sequentially. Multiple operations on a single line are separated by semicolons. Operation parameters are comma-separated.
 
+## Documentation
+
+Read more about this project at the [documentation](https://github.com/efrem-upt/augment-images/blob/main/docs/FCV_Project.pdf).
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
